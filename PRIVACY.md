@@ -49,8 +49,9 @@ settings.
 
 ## Children
 
-Wizards Hike knowingly collects nothing from anyone, at any age: there is no
-account, no profile sent anywhere, and no data leaves the device.
+Wizards Hike is not directed to children under 13. In any case, it knowingly
+collects nothing from anyone, at any age: there is no account, no profile sent
+anywhere, and no data leaves the device.
 
 ## Contact
 
