@@ -1,6 +1,6 @@
 # Privacy policy — Wizards Hike
 
-_Last updated 9 August 2026_
+_Last updated 15 August 2026_
 
 Wizards Hike counts your steps to move your wizard along the journey. Everything
 it records stays on your phone. The app has no internet access at all, so nothing
@@ -30,6 +30,14 @@ Your data is never sold, shared, or sent to the developer.
 The app asks Health Connect for permission to read your steps while it is closed.
 Without it your wizard would only move while you had the app open. It is used for
 nothing else, and you can withdraw it at any time in your phone's Health Connect
+settings.
+
+On phones where Health Connect is unavailable, the app counts steps with the
+built-in sensor. Since Android delivers no sensor readings to an app in the
+background, it then runs a service with a permanent notification showing the
+day's step count: that notification is what allows counting to continue while the
+app is closed. This service reads nothing but your steps, writes only to your
+phone, and stops if you withdraw the physical activity permission in your Android
 settings.
 
 ## Android backup
